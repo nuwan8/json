@@ -1,4 +1,11 @@
 {
-    "dealercode": "7",
-    "idno": "681110364V"
-}
+    "posts": [
+      {
+        "id": 1,
+        "title": "hello"
+      }
+    ],
+    "profile": {
+      "name": "typicode"
+    }
+  }
