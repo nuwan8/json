@@ -1,39 +1,24 @@
-[{
-  "code": 200,
-  "message": [
-  {
-  "validation": "success",
-  "apin": [
-  7,
-  14,
-  15,
-  40,
-  177,
-  245,
-  17884,
-  18427,
-  18577,
-  20556,
-  26515,
-  29526,
-  29637,
-  33743,
-  39147,
-  40816,
-  69437,
-  69438,
-  69447,
-  69449,
-  297350,
-  434651,
-  529715,
-  543644,
-  544854,
-  544855,
-  548627,
-  572534
-  ]
+{
+  "employees": {
+    "employee": [
+      {
+        "id": "1",
+        "firstName": "Tom",
+        "lastName": "Cruise",
+        "photo": "https://jsonformatter.org/img/tom-cruise.jpg"
+      },
+      {
+        "id": "2",
+        "firstName": "Maria",
+        "lastName": "Sharapova",
+        "photo": "https://jsonformatter.org/img/Maria-Sharapova.jpg"
+      },
+      {
+        "id": "3",
+        "firstName": "Robert",
+        "lastName": "Downey Jr.",
+        "photo": "https://jsonformatter.org/img/Robert-Downey-Jr.jpg"
+      }
+    ]
   }
-  ]
-  }]
-  
+}
