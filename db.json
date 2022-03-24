@@ -4,22 +4,7 @@
     "message":"success"
   },
   "dealer": {
-    "dealer": [
-      {
-        "dpin": "1",
-        "dealercode": "1",
-        "idnumber": "86771220V"
-      },
-      {
-        "dpin": "1",
-        "dealercode": "1",
-        "idnumber": "86771220V"
-      },
-      {
-        "dpin": "1",
-        "dealercode": "1",
-        "idnumber": "86771220V"
-      }
-    ]
+    "dealercode":"1",
+    "id":"881040670V"
   }
 }
