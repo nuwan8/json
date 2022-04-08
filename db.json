@@ -1,18 +1,6 @@
 {
-  "status":{
-    "code":200,
-    "message":"success"
-  },
-  "dealer": {
-    "dealercode":"1",
-    "id":"881040670V"
-  },
-  
-  "dpin":{
-    "0":1200,
-    "1":1201,
-    "2":1308
-
-  }
-
+  "ev_code":17,
+  "ev_placement":17, 
+  "dealer_name":"MUDIYASELAGE PASIDU USHAN PRIYANTHA",
+  "status": 200
 }
